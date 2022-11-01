@@ -1,4 +1,4 @@
-﻿# # Teamcity configuration
+﻿# Teamcity configuration
 Set-StrictMode -Version Latest
 
 # Error Handler
